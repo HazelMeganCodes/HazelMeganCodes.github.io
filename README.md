@@ -1,3 +1,3 @@
-## New blog, who dis? 
+## my blog
 
-This is my blog. At least it will be soon.
+View it at https://hazelmegancodes.github.io/
