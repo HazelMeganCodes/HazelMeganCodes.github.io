@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "New Blog. Who dis?"
+permalink: new-blog-who-dis
 date:   2021-11-16 16:23:30 +0000
 categories: meta
 ---
