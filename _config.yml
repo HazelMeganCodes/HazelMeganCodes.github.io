@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HazelMeganCodes
 github_username:  HazelMeganCodes
 
+show_excerpts: true
+
 minima:
   social_links:
     twitter: HazelMeganCodes
